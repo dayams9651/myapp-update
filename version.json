@@ -1,5 +1,5 @@
 {
-  "version": "1",
+  "version": "2",
   "apk_url": "https://mscapp.netlify.app/",
   "force_update": true,
   "message": "Please update the app to continue"
